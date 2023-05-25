@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    font-size:10vw;
+    transition: ease-out;
+    transition-duration: 0.2s;
+}
+.title:hover{
+    color: #3BA563;
+    cursor: pointer;
+    transition: ease-out;
+    transition-duration: 0.2s;
+}
+.btn{
+    background-color: #275338;
+    transition: ease-out;
+    transition-duration: 0.2s;
+
+}
+.btn:hover{
+    background-color: azure;
+    border: solid 1px #3BA563;
+    transition: ease-out;
+    transition-duration: 0.2s;
+
+}
